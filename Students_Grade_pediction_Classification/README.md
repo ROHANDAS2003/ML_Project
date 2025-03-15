@@ -1,5 +1,5 @@
 # Student Grade Prediction
-
+<img src="./Machine-Learning-Project-on-Student-Grades-Prediction.webp" width="500">
 ## Project Overview
 
 This project aims to predict students' final grades based on various factors such as attendance, participation, previous scores, and demographics. Using a **supervised learning** classification approach, the goal is to identify patterns in the dataset that can help predict student performance. The target variable, which represents the final grade, is categorical, making this a classification problem.
