@@ -1,0 +1,16 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders
+tfenv/
+.DS_Store
+
+# Ignore data, models, and build artifacts
+*.csv
+*.json
+*.tsv
+*.tfevents
+*.joblib
+*.h5
+*.pyc
+*.env
